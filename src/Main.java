@@ -50,10 +50,6 @@ public class Main {
         drink(70); // tea
         drink(99); // heavy beverage
 
-       /* for(String a : args){
-            System.out.println(a);
-        }*/
-
         go(13);
         go(26);
 
